@@ -1,0 +1,14 @@
+/home/alona/універ/2 курс/прога 2/7/bin/Debug/net8.0/7
+/home/alona/універ/2 курс/прога 2/7/bin/Debug/net8.0/7.deps.json
+/home/alona/універ/2 курс/прога 2/7/bin/Debug/net8.0/7.runtimeconfig.json
+/home/alona/універ/2 курс/прога 2/7/bin/Debug/net8.0/7.dll
+/home/alona/універ/2 курс/прога 2/7/bin/Debug/net8.0/7.pdb
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.GeneratedMSBuildEditorConfig.editorconfig
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.AssemblyInfoInputs.cache
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.AssemblyInfo.cs
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.csproj.CoreCompileInputs.cache
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.dll
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/refint/7.dll
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.pdb
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.genruntimeconfig.cache
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/ref/7.dll
