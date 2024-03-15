@@ -12,3 +12,4 @@
 /home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.pdb
 /home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.genruntimeconfig.cache
 /home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/ref/7.dll
+/home/alona/універ/2 курс/прога 2/7/obj/Debug/net8.0/7.sourcelink.json
