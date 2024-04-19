@@ -128,27 +128,24 @@ class Program
         ReturnBook<Book>[] getter = new ReturnBook<Book>[10];
         Book book = new Book("The Poppe War", "Rebecca Quang", 2020, 5, true);
         Book book1 = new Book("Babel", "Rebecca Quang", 2022, 4, false);
-        Book book2 = new Book("Yellowface", "Rebecca Quang", 2023, 5, true);
+        Book book2 = new Book("Yellowface", "Rebecca Quang", 2023, 5, false);
         Console.WriteLine(book);
         try
         {
             setter[0] = book.SetBook;
-            setter[1] = book.SetBook;
-            setter[2] = book1.SetBook;
+
             getter[0] = book.ReturnBook;
             getter[1] = book1.ReturnBook;
-            setter[3] = book1.ReturnBook;
+            getter[2] = book2.ReturnBook;
             foreach (var b in setter)
             {
-                b.Invoke(book);
-                b.Invoke(book1);
-                b.Invoke(book2);
+                b?.Invoke(book);
             }
             foreach (var b in getter)
             {
-                b.Invoke(book);
-                b.Invoke(book1);
-                b.Invoke(book2);
+                b?.Invoke(book);
+                b?.Invoke(book1);
+                b?.Invoke(book2);
             }
         }
         catch (Exception ex)
