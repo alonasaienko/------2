@@ -138,6 +138,18 @@ class Program
             getter[0] = book.ReturnBook;
             getter[1] = book1.ReturnBook;
             setter[3] = book1.ReturnBook;
+            foreach (var b in setter)
+            {
+                b.Invoke(book);
+                b.Invoke(book1);
+                b.Invoke(book2);
+            }
+            foreach (var b in getter)
+            {
+                b.Invoke(book);
+                b.Invoke(book1);
+                b.Invoke(book2);
+            }
         }
         catch (Exception ex)
         {
