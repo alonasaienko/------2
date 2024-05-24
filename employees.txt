@@ -1,0 +1,3 @@
+Name: John Doe, Position: Manager, HireDate: 24.05.2024 10:47:46
+Name: Jane Smith, Position: Developer, HireDate: 24.05.2024 10:47:46
+Name: Albert Johnson, Position: Analyst, HireDate: 24.05.2024 10:47:46
